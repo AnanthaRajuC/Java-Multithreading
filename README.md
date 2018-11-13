@@ -15,3 +15,5 @@ Threads can be created by using two mechanisms:
 |**WAITING**|waiting for some other thread to perform a particular action without any time limit|
 |**TIMED_WAITING**|waiting for some other thread to perform a specific action for a specified period|
 |**TERMINATED**|has completed its execution|
+
+![Thread Life Cycle](resources/images/Life_cycle_of_a_Thread_in_Java.jpg?raw=true "Thread Life Cycle")
