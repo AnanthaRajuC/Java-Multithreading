@@ -1,6 +1,13 @@
 # Multithreading In Java
 Multithreading in java is a process of executing multiple threads simultaneously. A thread is a lightweight sub-process, the smallest unit of processing. These threads can run concurrently. Multiprocessing and multithreading, both are used to achieve multitasking.
 
+# Table of Contents
+
+<!--ts--> 
+  * [Life Cycle of a Thread](#life-cycle-of-a-thread)
+  * [Thread Priorities](#thread-priorities)
+<!--te-->
+
 Threads can be created by using two mechanisms:
 1. Extending the Thread class
 2. Implementing the Runnable Interface
